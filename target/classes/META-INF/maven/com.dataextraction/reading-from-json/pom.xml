@@ -6,11 +6,6 @@
   <dependencies>
     <!-- JBehave Core -->
     <dependency>
-        <groupId>org.jbehave</groupId>
-        <artifactId>jbehave-core</artifactId>
-        <version>4.7</version> <!-- or the latest version -->
-    </dependency>
-    <dependency>
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-junit</artifactId>
 			<version>5.7.0</version>

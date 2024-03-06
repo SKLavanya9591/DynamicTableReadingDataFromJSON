@@ -1,4 +1,4 @@
-package com.stepdefination;
+package com.stepdefinition;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
